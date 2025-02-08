@@ -24,3 +24,6 @@ plt.bar(df["Month"], df["Profit"], alpha=0.6, label="Profit", color="orange")
 plt.title("Sales and Profit Analysis", fontsize=16)
 plt.xlabel("Month", fontsize=12)
 plt.ylabel("Amount", fontsize=12)
+
+# 凡例を表示
+plt.legend()
