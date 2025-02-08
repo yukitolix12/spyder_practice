@@ -30,3 +30,6 @@ plt.legend()
 
 # グリッドを追加
 plt.grid(alpha=0.3)
+
+# グラフを表示
+plt.show()
