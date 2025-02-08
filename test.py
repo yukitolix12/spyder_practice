@@ -27,3 +27,6 @@ plt.ylabel("Amount", fontsize=12)
 
 # 凡例を表示
 plt.legend()
+
+# グリッドを追加
+plt.grid(alpha=0.3)
